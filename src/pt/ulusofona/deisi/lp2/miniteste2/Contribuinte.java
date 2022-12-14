@@ -77,7 +77,7 @@ public class Contribuinte {
             }
         }
         if (numMensagens == 0){
-            return "Sem mensagens!";
+            return "Sem mensagens!" ;
         }
         return resultado;
     }
